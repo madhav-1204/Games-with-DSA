@@ -1,0 +1,10 @@
+apple
+grape
+pearl
+chess
+brick
+crown
+plant
+chair
+table
+bread
